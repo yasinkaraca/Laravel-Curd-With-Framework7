@@ -1,0 +1,20 @@
+.center{
+    text-align: center;
+}
+table.table-striped > .thead-dark > tr > th:hover{
+    color: #AABBCC;
+    cursor: pointer;
+}
+.item-cell{
+    font-size: 12px;
+}
+.striped > li:nth-of-type(even){
+    background-color: #f2f2f2;
+}
+.header{
+    background-color: #00ddff;
+}
+.link{
+    text-decoration: none !important;
+    color: black;
+}
